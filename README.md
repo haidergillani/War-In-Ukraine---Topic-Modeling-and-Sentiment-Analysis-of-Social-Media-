@@ -1,4 +1,6 @@
 # Topic Modeling & Sentiment Analysis of Social Media Posts: Ukraine-Russia War
+Team Members: Haider (Pakistan), Emil (Azerbaijan), Amos (USA)  
+
 Role: Data Analyst  
 Company: Taiwan Digital Diplomacy Association & Meta  
 Location: Taipei, Taiwan  
