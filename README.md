@@ -5,6 +5,8 @@ Role: Data Analyst
 Company: Taiwan Digital Diplomacy Association & Meta  
 Location: Taipei, Taiwan  
 
+#### Project Files: [https://github.com/amdecker/social-media-ukraine](url)
+
 This project demonstrates expertise in data acquisition (web scraping, Graph API), data cleaning, data analysis (Python, NLP, Topic Modeling, Sentiment Analysis), and strategic planning (communication strategy formulation). We highlight the paramount influence of social media on its hundreds of millions of users worldwide. The project also underscores the significance of leveraging social media data to inform governmental communication strategies during times of war, thereby contributing to effective digital diplomacy.
 
 ### Project Description:  
