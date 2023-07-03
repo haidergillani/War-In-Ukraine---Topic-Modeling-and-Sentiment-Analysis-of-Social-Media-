@@ -1,5 +1,7 @@
 # Topic Modeling & Sentiment Analysis of Social Media Posts: Ukraine-Russia War
-Team Members: Jimmy (TDDA Supervisor), Haider, Emil, Amos  
+
+Team Members: Haider, Emil, Amos  
+Supervisor:  Jimmy Chien (Taiwan Digital Diplomacy Association)
 
 Role: Data Analyst  
 Company: Taiwan Digital Diplomacy Association & Meta  
