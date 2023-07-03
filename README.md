@@ -1,5 +1,5 @@
 # Topic Modeling & Sentiment Analysis of Social Media Posts: Ukraine-Russia War
-Team Members: Jimmy (Taiwan - TDDA), Haider (Pakistan), Emil (Azerbaijan), Amos (USA)  
+Team Members: Jimmy (TDDA Supervisor), Haider, Emil, Amos  
 
 Role: Data Analyst  
 Company: Taiwan Digital Diplomacy Association & Meta  
