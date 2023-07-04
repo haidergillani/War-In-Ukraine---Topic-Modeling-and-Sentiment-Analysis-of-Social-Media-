@@ -1,7 +1,7 @@
 # Topic Modeling & Sentiment Analysis of Social Media Posts: Ukraine-Russia War
 
-Team Members: Haider, Emil, Amos  
-Supervisor:  Jimmy Chien (Taiwan Digital Diplomacy Association)
+Team Members: Haider, Emil, Amos [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/) [Emil](https://www.linkedin.com/in/emil-rustamli/) [Amos](https://www.linkedin.com/in/amosdecker/)
+Supervisor:  [Jimmy Chien](https://www.linkedin.com/company/taiwan-digital-diplomacy-association/mycompany/) (Taiwan Digital Diplomacy Association)
 
 Role: Data Analyst  
 Company: Taiwan Digital Diplomacy Association & Meta  
