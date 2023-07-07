@@ -1,11 +1,11 @@
 # Topic Modeling & Sentiment Analysis of Social Media Posts: Ukraine-Russia War
 
-Team Members: [Haider](https://www.linkedin.com/in/haider-gillani-b87b90210/),    [Emil](https://www.linkedin.com/in/emil-rustamli/),    [Amos](https://www.linkedin.com/in/amosdecker/) \
-Supervisor:  [Jimmy Chien](https://www.linkedin.com/company/taiwan-digital-diplomacy-association/mycompany/) ([Taiwan Digital Diplomacy Association](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view?usp=sharing))
+Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90210/),  [Emil Rustamli](https://www.linkedin.com/in/emil-rustamli/),  [Amos Decker](https://www.linkedin.com/in/amosdecker/) \
+Supervisor:  [Jimmy Chien](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view?usp=sharing) -  CTO Taiwan Digital Diplomacy Association
 
-Role: Data Analyst  
-Company: Taiwan Digital Diplomacy Association & Meta  
-Location: Taipei, Taiwan  
+Role: **Data Analyst - NLP**  \
+Company: [**Taiwan Digital Diplomacy Association**](https://www.facebook.com/TaiwanDigitalDiplomacy/) & [Meta](https://www.meta.com/) \  
+Location: **Taipei, Taiwan** 
 
 #### Project Files: [https://github.com/amdecker/social-media-ukraine](url)
 
