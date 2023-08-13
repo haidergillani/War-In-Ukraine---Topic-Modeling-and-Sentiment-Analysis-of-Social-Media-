@@ -1,4 +1,4 @@
-# War In Ukraine: Topic Modeling & Sentiment Analysis Of Social Media​
+# War In Ukraine: Topic Modeling & Sentiment Analysis of Social Media​
 
 Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90210/),  [Emil Rustamli](https://www.linkedin.com/in/emil-rustamli/),  [Amos Decker](https://www.linkedin.com/in/amosdecker/) \
 Supervisor:  [Jimmy Chien](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view?usp=sharing) -  CTO Taiwan Digital Diplomacy Association
