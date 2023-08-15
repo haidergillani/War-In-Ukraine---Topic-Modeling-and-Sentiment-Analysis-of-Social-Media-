@@ -4,7 +4,7 @@ Team Members: [Haider Gillani](https://www.linkedin.com/in/haider-gillani-b87b90
 Supervisor:  [Jimmy Chien](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view?usp=sharing) -  CTO Taiwan Digital Diplomacy Association
 
 Role: **Data Analyst - NLP**  \
-Company: [**Taiwan Digital Diplomacy Association**](https://www.facebook.com/TaiwanDigitalDiplomacy/) & [Meta](https://www.meta.com/) \
+Company: [**Taiwan Digital Diplomacy Association**](https://drive.google.com/file/d/1LhvkVBBzRkyPP0WYTHMpuKXmRnr5r_qU/view?usp=sharing) & [Meta](https://www.meta.com/) \
 Location: **Taipei, Taiwan** 
 
 #### Project Files: [https://github.com/amdecker/social-media-ukraine](url)
